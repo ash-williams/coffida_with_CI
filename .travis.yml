@@ -8,7 +8,7 @@ before_install:
 before_script:
 - npm install
 script:
-- node server.js &
+- node server.js
 - npm test
 env:
   global:

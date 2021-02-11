@@ -1,5 +1,7 @@
 # CoffiDa API
 
+[![Build Status](https://travis-ci.com/ash-williams/coffida_with_CI.svg?branch=main)](https://travis-ci.com/ash-williams/coffida_with_CI)
+
 This is the CoffiDa API for use in the 20/21 MAD assignment.
 
 To get started, read the assignment brief and watch the assignment video (week 2).

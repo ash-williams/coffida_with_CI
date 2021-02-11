@@ -11,4 +11,7 @@ module.exports = function(app){
 
     app.route('/api/' + version + '/resample')
         .post(backdoor.resample);
+    
+    app.route('/api/' + version + '/')
+        .get((req, res) => { res.send("OK")});
 };
